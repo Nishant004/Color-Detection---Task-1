@@ -1,5 +1,3 @@
-# Color-Detection---Task-1
-
 # THE SPARKS FOUNDATION
 
 ## Author : Nishant Adarsh Bhagat
